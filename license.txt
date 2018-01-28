@@ -1,8 +1,5 @@
 你好！Git
 我是llf
 我新创建了一个分支dev
-<<<<<<< HEAD
 i am lilongfei,i love jia shaan
-=======
-i am lilongfei,i love jia shaan
->>>>>>> dev
+
